@@ -1,10 +1,10 @@
 # React FireChat
 
-Source code of the React FireChat app built with React, Firebase, and Tailwind
+Source code of the React Firebase Chat app built with React, Firebase, and Tailwind
 CSS. Deployed on Netlify.
 
 
-Check out the live demo of the final result:
+Check out the live demo of the final result: 'coming soon'
 
 ## create-react-app
 
