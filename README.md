@@ -24,7 +24,7 @@ worry about configuring many build tools.
 ## Instructions
 
 1. Clone the project repository:
-   `git clone https://github.com/abioseth/react-firechat`
+   `git clone https://github.com/abioseth1/chat-app_react-firebase/tree/main`
 
 2. Navigate to the project folder: `cd react-firechat`
 
